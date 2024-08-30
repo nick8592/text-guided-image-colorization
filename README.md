@@ -39,8 +39,8 @@ To set up the project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. **Download Pre-trained Models**:
-   ASAP
+3. **Download Pre-trained Models**:   
+   DM me for the download link.
 
 ## Quick Start
 
