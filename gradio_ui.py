@@ -341,7 +341,7 @@ def create_interface():
                         label="Checkpoint",
                         info="Available checkpoints from the repository. Caution! Checkpoint's 'N'step must match with inference steps"),
         ],
-        title="SDXL-Light Image Colorization",
+        title="Text-Guided Image Colorization",
         description="Upload an image and select a model to colorize it."
     )
     return interface
