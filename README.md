@@ -3,16 +3,13 @@
 Welcome to the **Image Colorization** repository! This project utilizes the power of **Stable Diffusion (SDXL/SDXL-Light)** and the **BLIP (Bootstrapping Language-Image Pre-training)** captioning model to provide an interactive image colorization experience. Users can influence the generated colors of objects within images, making the colorization process more personalized and creative.
 
 ## Table of Contents
-
-- [Text-Guided-Image-Colorization](#text-guided-image-colorization)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Quick Start](#quick-start)
-  - [Dataset Usage](#dataset-usage)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
-  - [License](#license)
+ - [Features](#features)
+ - [Installation](#installation)
+ - [Quick Start](#quick-start)
+ - [Dataset Usage](#dataset-usage)
+ - [Training](#training)
+ - [Evaluation](#evaluation)
+ - [License](#license)
 
 ## Features
 
