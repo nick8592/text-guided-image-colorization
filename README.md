@@ -9,6 +9,7 @@ Welcome to the **Image Colorization** repository! This project utilizes the powe
  - [Dataset Usage](#dataset-usage)
  - [Training](#training)
  - [Evaluation](#evaluation)
+ - [Results](#results)
  - [License](#license)
 
 ## Features
@@ -49,9 +50,11 @@ python gradio_ui.py
 
 2. Open the provided URL in your web browser to access the Gradio-based user interface.
 
-3. Upload an image and use the interface to control the colors of specific objects in the image.
+3. Upload an image and use the interface to control the colors of specific objects in the image. But still the model can generate images without a specific prompt.
 
-4. The model will generate a colorized version of the image based on your input.
+4. The model will generate a colorized version of the image based on your input (or automatic).
+![Gradio UI](images/gradio_ui.png)
+
 
 ## Dataset Usage
 
@@ -74,6 +77,16 @@ For evaluation, you can use one of the following scripts:
 - `eval_controlnet.sh`: Evaluates the model using [Stable Diffusion v2](https://huggingface.co/stabilityai/stable-diffusion-2-1) for a folder of images.
 - `eval_controlnet_sdxl_light.sh`: Evaluates the model using [SDXL-Lightning](https://huggingface.co/ByteDance/SDXL-Lightning) for a folder of images.
 - `eval_controlnet_sdxl_light_single.sh`: Evaluates the model using [SDXL-Lightning](https://huggingface.co/ByteDance/SDXL-Lightning) for a single image.
+
+## Results
+Ground truth images are provided solely for reference purpose in the image colorization task.
+| Grayscale Image | Colorized Result | Ground Truth |
+|---|---|---|
+| ![000000025560_gray.jpg](images/000000025560_gray.jpg) | ![000000025560_color.jpg](images/000000025560_color.jpg) | ![000000025560_gt.jpg](images/000000025560_gt.jpg) |
+| ![000000065736_gray.jpg](images/000000065736_gray.jpg) | ![000000065736_color.jpg](images/000000065736_color.jpg) | ![000000065736_gt.jpg](images/000000065736_gt.jpg) |
+| ![000000091779_gray.jpg](images/000000091779_gray.jpg) | ![000000091779_color.jpg](images/000000091779_color.jpg) | ![000000091779_gt.jpg](images/000000091779_gt.jpg) |
+| ![000000092177_gray.jpg](images/000000092177_gray.jpg) | ![000000092177_color.jpg](images/000000092177_color.jpg) | ![000000092177_gt.jpg](images/000000092177_gt.jpg) |
+| ![000000166426_gray.jpg](images/000000166426_gray.jpg) | ![000000166426_color.jpg](images/000000166426_color.jpg) | ![000000025560_gt.jpg](images/000000166426_gt.jpg) |
 
 ## License
 
