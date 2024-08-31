@@ -1,6 +1,6 @@
 # Text-Guided-Image-Colorization
 
-Welcome to the **Image Colorization** repository! This project utilizes the power of **Stable Diffusion (SDXL/SDXL-Light)** and the **CLIP (Contrastive Language-Image Pre-Training)** captioning model to provide an interactive image colorization experience. Users can influence the generated colors of objects within images, making the colorization process more personalized and creative.
+This project utilizes the power of **Stable Diffusion (SDXL/SDXL-Light)** and the **CLIP (Contrastive Language-Image Pre-Training)** captioning model to provide an interactive image colorization experience. Users can influence the generated colors of objects within images, making the colorization process more personalized and creative.
 
 ## Table of Contents
  - [Features](#features)
