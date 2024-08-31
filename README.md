@@ -40,6 +40,14 @@ To set up the project locally, follow these steps:
 3. **Download Pre-trained Models**:   
    SDXL-Lightning ckpt: [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)
 
+   ```bash
+   Text-Guided-Image-Colorization
+   └── sdxl_light_caption_output
+       ├── diffusion_pytorch_model.safetensors
+       ├── config.json
+       └── checkpoint-30000
+   ```
+
 ## Quick Start
 
 1. Run the `gradio_ui.py` script:
