@@ -52,7 +52,7 @@ python gradio_ui.py
 
 3. Upload an image and use the interface to control the colors of specific objects in the image. But still the model can generate images without a specific prompt.
 
-4. The model will generate a colorized version of the image based on your input (or automatic).
+4. The model will generate a colorized version of the image based on your input (or automatic). See the [demo video](https://x.com/weichenpai/status/1829513077588631987).
 ![Gradio UI](images/gradio_ui.png)
 
 
