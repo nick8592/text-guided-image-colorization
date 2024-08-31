@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/nick8592/Text-Guided-Image-Colorization.git
-   cd Text-Guided-Image-Colorization
+   git clone https://github.com/nick8592/text-guided-image-colorization.git
+   cd text-guided-image-colorization
    ```
 
 2. **Install Dependencies**:
@@ -41,7 +41,7 @@ To set up the project locally, follow these steps:
    SDXL-Lightning ckpt: [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)
 
    ```bash
-   Text-Guided-Image-Colorization
+   text-guided-image-colorization
    └── sdxl_light_caption_output
        ├── diffusion_pytorch_model.safetensors
        ├── config.json
