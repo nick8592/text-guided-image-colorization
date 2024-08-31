@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/image-colorization.git
-   cd image-colorization
+   git clone https://github.com/nick8592/Text-Guided-Image-Colorization.git
+   cd Text-Guided-Image-Colorization
    ```
 
 2. **Install Dependencies**:
