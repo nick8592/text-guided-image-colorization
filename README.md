@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
    ```
 
 3. **Download Pre-trained Models**:   
-   SDXL-Lightning ckpt: [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)
+   SDXL-Lightning caption ckpt: [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)
 
    ```bash
    text-guided-image-colorization
