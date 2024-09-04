@@ -271,6 +271,7 @@ def get_image_paths(folder_path):
 def create_interface():
     controlnet_model_dict = {
        "sdxl-light-caption-30000": "sdxl_light_caption_output/checkpoint-30000/controlnet",
+       "sdxl-light-custom-caption-30000": "sdxl_light_custom_caption_output/checkpoint-30000/controlnet",
     }
     images = get_image_paths("example/legacy_images")  # Replace with your folder path
 
