@@ -87,7 +87,7 @@ For evaluation, you can use one of the following scripts:
 - `eval_controlnet_sdxl_light_single.sh`: Evaluates the model using [SDXL-Lightning](https://huggingface.co/ByteDance/SDXL-Lightning) for a single image.
 
 ## Results
-### Prompt-Guided Colorization
+### Prompt-Guided
 | Caption | Condition 1 | Condition 2 | Condition 3 |
 |:---:|:---:|:---:|:---:|
 | ![000000022935_gray.jpg](images/000000022935_gray.jpg) | ![000000022935_green_shirt_on_right_girl.jpeg](images/000000022935_green_shirt_on_right_girl.jpeg) | ![000000022935_purple_shirt_on_right_girl.jpeg](images/000000022935_purple_shirt_on_right_girl.jpeg) |![000000022935_red_shirt_on_right_girl.jpeg](images/000000022935_red_shirt_on_right_girl.jpeg) |
@@ -97,7 +97,7 @@ For evaluation, you can use one of the following scripts:
 | ![000000286708_gray.jpg](images/000000286708_gray.jpg) | ![000000286708_orange_hat.jpeg](images/000000286708_orange_hat.jpeg) | ![000000286708_pink_hat.jpeg](images/000000286708_pink_hat.jpeg) |![000000286708_yellow_hat.jpeg](images/000000286708_yellow_hat.jpeg) |
 | a photography of a cat wearing a hat on his head | + "orange hat"| + "pink hat" | + "yellow hat" |
 
-### Prompt-Free Colorization
+### Prompt-Free
 Ground truth images are provided solely for reference purpose in the image colorization task.
 | Grayscale Image | Colorized Result | Ground Truth |
 |:---:|:---:|:---:|
