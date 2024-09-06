@@ -49,13 +49,13 @@ To set up the project locally, follow these steps:
 
    ```bash
    text-guided-image-colorization/sdxl_light_caption_output
-   └── checkpoint-30000
+   ├── checkpoint-30000
    │   ├── diffusion_pytorch_model.safetensors
    │   └── config.json
-   ├──optimizer.bin
-   ├──random_states_0.pkl
-   ├──scaler.pt
-   └──scheduler.bin
+   ├── optimizer.bin
+   ├── random_states_0.pkl
+   ├── scaler.pt
+   └── scheduler.bin
    ```
 
 ## Quick Start
