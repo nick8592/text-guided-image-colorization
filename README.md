@@ -38,15 +38,18 @@ To set up the project locally, follow these steps:
    ```
 
 3. **Download Pre-trained Models**:   
-   SDXL-Lightning caption ckpt: [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)   
-   SDXL-Lightning custom caption ckpt: [link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)   
+   SDXL-Lightning caption ckpt: [Hugging Face](https://huggingface.co/nickpai/sdxl_light_caption_output) or [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)   
+   SDXL-Lightning custom caption ckpt: [Hugging Face](https://huggingface.co/nickpai/sdxl_light_custom_caption_output) or [link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)   
 
    ```bash
-   text-guided-image-colorization
-   └── sdxl_light_caption_output
-       ├── diffusion_pytorch_model.safetensors
-       ├── config.json
-       └── checkpoint-30000
+   text-guided-image-colorization/sdxl_light_caption_output
+   └── checkpoint-30000
+   │   ├── diffusion_pytorch_model.safetensors
+   │   └── config.json
+   ├──optimizer.bin
+   ├──random_states_0.pkl
+   ├──scaler.pt
+   └──scheduler.bin
    ```
 
 ## Quick Start
