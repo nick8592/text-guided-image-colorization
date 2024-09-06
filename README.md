@@ -36,6 +36,12 @@ To set up the project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+   Install `torch` and `torchvision` matching your CUDA version:
+   ```bash
+   pip install torch torchvision --index-url https://download.pytorch.org/whl/cuXXX
+   ```
+   Replace `XXX` with your CUDA version (e.g., `118` for CUDA 11.8). For more info, see [PyTorch Get Started](https://pytorch.org/get-started/locally/).   
+
 
 3. **Download Pre-trained Models**:   
    SDXL-Lightning caption ckpt: [Hugging Face](https://huggingface.co/nickpai/sdxl_light_caption_output) or [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)   
