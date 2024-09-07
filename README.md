@@ -43,9 +43,12 @@ To set up the project locally, follow these steps:
    Replace `XXX` with your CUDA version (e.g., `118` for CUDA 11.8). For more info, see [PyTorch Get Started](https://pytorch.org/get-started/locally/).   
 
 
-3. **Download Pre-trained Models**:   
-   SDXL-Lightning caption ckpt: [Hugging Face](https://huggingface.co/nickpai/sdxl_light_caption_output) or [link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)   
-   SDXL-Lightning custom caption ckpt: [Hugging Face](https://huggingface.co/nickpai/sdxl_light_custom_caption_output) or [link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)   
+3. **Download Pre-trained Models**:
+   | Models | Hugging Face (Recommand) | Other |
+   |:---:|:---:|:---:|
+   |SDXL-Lightning Caption|[link](https://huggingface.co/nickpai/sdxl_light_caption_output)|[link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)|
+   |SDXL-Lightning Custom Caption|[link](https://huggingface.co/nickpai/sdxl_light_custom_caption_output)|[link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)|
+
 
    ```bash
    text-guided-image-colorization/sdxl_light_caption_output
