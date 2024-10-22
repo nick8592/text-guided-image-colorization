@@ -47,7 +47,7 @@ To set up the project locally, follow these steps:
    | Models | Hugging Face (Recommand) | Other |
    |:---:|:---:|:---:|
    |SDXL-Lightning Caption|[link](https://huggingface.co/nickpai/sdxl_light_caption_output)|[link](https://gofile.me/7uE8s/FlEhfpWPw) (2kNJfV)|
-   |SDXL-Lightning Custom Caption|[link](https://huggingface.co/nickpai/sdxl_light_custom_caption_output)|[link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)|
+   |SDXL-Lightning Custom Caption (Recommand)|[link](https://huggingface.co/nickpai/sdxl_light_custom_caption_output)|[link](https://gofile.me/7uE8s/AKmRq5sLR) (KW7Fpi)|
 
 
    ```bash
