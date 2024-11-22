@@ -2,6 +2,8 @@
 
 This project utilizes the power of **Stable Diffusion (SDXL/SDXL-Light)** and the **BLIP (Bootstrapping Language-Image Pre-training)** captioning model to provide an interactive image colorization experience. Users can influence the generated colors of objects within images, making the colorization process more personalized and creative.
 
+![framework.jpg](images/framework.jpg)
+
 ## Table of Contents
  - [Features](#features)
  - [Installation](#installation)
@@ -12,6 +14,10 @@ This project utilizes the power of **Stable Diffusion (SDXL/SDXL-Light)** and th
  - [Results](#results)
  - [License](#license)
 
+## News  
+- **(2024/11/23)** The project is now available on [Hugging Face Spaces](https://huggingface.co/spaces/fffiloni/text-guided-image-colorization) 🎉 Big thanks to @fffiloni!
+
+  
 ## Features
 
 - **Interactive Colorization**: Users can specify desired colors for different objects in the image.
