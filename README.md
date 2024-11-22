@@ -127,7 +127,14 @@ Ground truth images are provided solely for reference purpose in the image color
 | ![000000092177_gray.jpg](images/000000092177_gray.jpg) | ![000000092177_color.jpg](images/000000092177_color.jpg) | ![000000092177_gt.jpg](images/000000092177_gt.jpg) |
 | ![000000166426_gray.jpg](images/000000166426_gray.jpg) | ![000000166426_color.jpg](images/000000166426_color.jpg) | ![000000025560_gt.jpg](images/000000166426_gt.jpg) |
 
+## Read More  
 
+Here are some related articles you might find interesting:  
+
+- [Image Colorization: Bringing Black and White to Life](https://medium.com/generative-ai/image-colorization-bringing-black-and-white-to-life-b14d3e0db763)  
+- [Understanding RGB, YCbCr, and Lab Color Spaces](https://medium.com/@weichenpai/understanding-rgb-ycbcr-and-lab-color-spaces-f9c4a5fe485a)  
+- [Comparison Between CLIP and BLIP Models](https://medium.com/generative-ai/comparison-between-clip-and-blip-models-42f8a6ff4b1e)  
+- [A Step-by-Step Guide to Interactive Machine Learning with Gradio](https://medium.com/generative-ai/a-step-by-step-guide-to-interactive-machine-learning-with-gradio-3fde7541da52)  
 
 ## License
 
